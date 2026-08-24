@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectSoundDemo", "DirectSoundDemo.csproj", "{A36EF89F-121D-4211-A8AD-3C0661C3FDAE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A36EF89F-121D-4211-A8AD-3C0661C3FDAE}.Debug.ActiveCfg = Debug|.NET
+		{A36EF89F-121D-4211-A8AD-3C0661C3FDAE}.Debug.Build.0 = Debug|.NET
+		{A36EF89F-121D-4211-A8AD-3C0661C3FDAE}.Release.ActiveCfg = Release|.NET
+		{A36EF89F-121D-4211-A8AD-3C0661C3FDAE}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
