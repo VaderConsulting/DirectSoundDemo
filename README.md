@@ -22,6 +22,10 @@ C# WinForms DirectSound player that loads a WAV, plays it, and exposes volume, p
 
 Open `DirectSoundDemo.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2008
+
 ## Attribution and provenance
 
 - No third-party source-code attribution markers were identified in assembly/package metadata.
