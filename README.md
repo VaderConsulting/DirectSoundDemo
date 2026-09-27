@@ -28,6 +28,7 @@ Open `DirectSoundDemo.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `DirectSoundDemo`.
 - No third-party source-code attribution markers were identified in assembly/package metadata.
 
 ## License
